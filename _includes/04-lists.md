@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+1. Amazon 
+    1. Cart
+    2. Orders
+2. Flipkart
+3. Netmeds
+
+* Git
+  * Version Control
+* Github
+* Gitlab
