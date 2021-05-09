@@ -1,6 +1,6 @@
-1. Amazon 
-    1. Cart
-    2. Orders
+1. [Amazon](https://amzn.to/2Q4pdxq) 
+    1. [Cart](https://amzn.to/33tqn8M)
+    2. [Orders](https://amzn.to/3h9cXa1)
 2. Flipkart
 3. Netmeds
 
